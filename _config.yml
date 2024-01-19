@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: WINVU - CVPR 2024
+description: What is Next in Video Understanding? CVPR 24 Workshop
