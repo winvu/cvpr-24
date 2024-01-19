@@ -16,8 +16,9 @@ layout: default
 
 # Speakers
 
-- [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) - University of California at Berkeley, Facebook AI Research
-- [Angela Yao](https://www.comp.nus.edu.sg/~ayao/) - National University of Singapore
-- [Gül Varol](https://imagine.enpc.fr/~varolg/) - École des Ponts ParisTech
-- [Michael Ryoo](http://michaelryoo.com/) - Google DeepMind, Stony Brook University
 - [João Carreira](https://scholar.google.com/citations?user=IUZ-7_cAAAAJ) - Google DeepMind
+- [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) - University of California at Berkeley, Facebook AI Research
+- [Michael Ryoo](http://michaelryoo.com/) - Google DeepMind, Stony Brook University
+- [Gül Varol](https://imagine.enpc.fr/~varolg/) - École des Ponts ParisTech
+- [Angela Yao](https://www.comp.nus.edu.sg/~ayao/) - National University of Singapore
+
