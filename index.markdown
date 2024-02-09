@@ -53,11 +53,46 @@ layout: default
 
 # Organisers
 
-- [Davide Moltisanti](http://davidemoltisanti.com/research/) - University of Bath
-- [Hazel Doughty](https://hazeldoughty.github.io/) - Leiden University
-- [Michael Wray](https://mwray.github.io/) - University of Bristol
-- [Bernard Ghanem](https://www.bernardghanem.com/) - King Abdullah University of Science and Technology
-- [Lorenzo Torresani](https://ltorresa.github.io/home.html) - Facebook AI Research
-
-
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./res/davide.jpg">
+    </td>
+    <td style="border: none;"><a href="https://www.davidemoltisanti.com/research">Davide Moltisanti</a></td>
+    <td style="border: none;">University of Bath</td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./res/hazel.jpg">
+    </td>
+    <td style="border: none;"><a href="https://hazeldoughty.github.io">Hazel Doughty</a></td>
+    <td style="border: none;">Leiden University</td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./res/mike.jpg">
+    </td>
+    <td style="border: none;"><a href="https://mwray.github.io">Michael Wray</a></td>
+    <td style="border: none;">University of Bristol</td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./res/bernard.jpg">
+    </td>
+    <td style="border: none;"><a href="https://www.bernardghanem.com">Bernard Ghanem</a></td>
+    <td style="border: none;">King Abdullah University of Science and Technology</td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./res/lorenzo.jpg">
+    </td>
+    <td style="border: none;"><a href="https://ltorresa.github.io/home.html">Lorenzo Torresani</a></td>
+    <td style="border: none;">Facebook AI Research</td>
+</tr>
+</table>
 
