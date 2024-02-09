@@ -20,7 +20,7 @@
 
 title: WINVU - CVPR 2024
 #email: your-email@example.com
-description: What is Next in Video Understanding? 18th June 2024, Seattle
+description: What is Next in Video Understanding? 18th June 2024 AM, Seattle
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winvu.github.io/cvpr-24/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -55,3 +55,8 @@ plugins:
 
 github:
   is_project_page: false
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
