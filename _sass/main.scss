@@ -1,8 +1,11 @@
 .header-toc {
+    display: table;
+    margin: auto auto;
+    text-align: center;
     list-style-type: none;
-    color: white;
-    text-align: centre;
-    position: centre;
+    color: white;    
+    padding-left: 0;
+    list-style-position: inside;
 }
 
 .toc-anchor {
