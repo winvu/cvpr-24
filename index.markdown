@@ -41,7 +41,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/joao.png">
+        src="./assets/img/joao.png">
     </td>
     <td style="border: none;"><a href="https://scholar.google.com/citations?hl=en&user=IUZ-7_cAAAAJ">João Carreira</a></td>
     <td style="border: none;">Google DeepMind</td>
@@ -49,7 +49,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/jitendra.png">
+        src="./assets/img/jitendra.png">
     </td>
     <td style="border: none;"><a href="https://people.eecs.berkeley.edu/~malik">Jitendra Malik</a></td>
     <td style="border: none;">University of California at Berkeley, Facebook AI Research</td>
@@ -57,7 +57,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/michael.jpg">
+        src="./assets/img/michael.jpg">
     </td>
     <td style="border: none;"><a href="http://michaelryoo.com/">Michael Ryoo</a></td>
     <td style="border: none;">Google DeepMind, Stony Brook University</td>
@@ -65,7 +65,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/gul.jpg">
+        src="./assets/img/gul.jpg">
     </td>
     <td style="border: none;"><a href="https://imagine.enpc.fr/~varolg">Gül Varol</a></td>
     <td style="border: none;">École des Ponts ParisTech</td>
@@ -73,7 +73,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/angela.png">
+        src="./assets/img/angela.png">
     </td>
     <td style="border: none;"><a href="https://www.comp.nus.edu.sg/~ayao">Angela Yao</a></td>
     <td style="border: none;">National University of Singapore</td>
@@ -86,7 +86,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/davide.jpg">
+        src="./assets/img/davide.jpg">
     </td>
     <td style="border: none;"><a href="https://www.davidemoltisanti.com/research">Davide Moltisanti</a></td>
     <td style="border: none;">University of Bath</td>
@@ -94,7 +94,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/hazel.jpg">
+        src="./assets/img/hazel.jpg">
     </td>
     <td style="border: none;"><a href="https://hazeldoughty.github.io">Hazel Doughty</a></td>
     <td style="border: none;">Leiden University</td>
@@ -102,7 +102,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/mike.jpg">
+        src="./assets/img/mike.jpg">
     </td>
     <td style="border: none;"><a href="https://mwray.github.io">Michael Wray</a></td>
     <td style="border: none;">University of Bristol</td>
@@ -110,7 +110,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/bernard.jpg">
+        src="./assets/img/bernard.jpg">
     </td>
     <td style="border: none;"><a href="https://www.bernardghanem.com">Bernard Ghanem</a></td>
     <td style="border: none;">King Abdullah University of Science and Technology</td>
@@ -118,7 +118,7 @@ CMT link coming soon.
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./res/lorenzo.jpg">
+        src="./assets/img/lorenzo.jpg">
     </td>
     <td style="border: none;"><a href="https://ltorresa.github.io/home.html">Lorenzo Torresani</a></td>
     <td style="border: none;">Facebook AI Research</td>
