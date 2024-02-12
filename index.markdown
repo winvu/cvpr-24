@@ -125,3 +125,7 @@ CMT link coming soon.
 </tr>
 </table>
 
+# Contact
+
+[winvu-cvpr-24@googlegroups.com](mailto:winvu-cvpr-24@googlegroups.com)
+
