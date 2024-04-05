@@ -14,7 +14,7 @@ The purpose of this workshop is to create a forum for discussion on what is next
 
 # Call for Position Papers
 
-We invite submissions of 1-2 page position papers on the future of video understanding. 
+We invite submissions of 1-2 page position papers on the future of video understanding. Papers will **not** be part of the CVPR proceedings.
 
 We do not expect submissions to be based on accepted papers or even include experiments. Rather, they should be a way to call the community's attention to an overlooked, under-explored, or new direction for video understanding. e.g. "We should not forget optical flow" or "The future lies in language-video models, but how can small groups compete?". Papers can focus on both the short-term and long-term future of video understanding.
 
