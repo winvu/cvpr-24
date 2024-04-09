@@ -40,14 +40,6 @@ Please [submit your paper on CMT](https://cmt3.research.microsoft.com/WINVU2024)
 <tr style="border: none;">
     <td style="border: none;">
         <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
-        src="./assets/img/joao.png">
-    </td>
-    <td style="border: none;"><a href="https://scholar.google.com/citations?hl=en&user=IUZ-7_cAAAAJ">João Carreira</a></td>
-    <td style="border: none;">Google DeepMind</td>
-</tr>
-<tr style="border: none;">
-    <td style="border: none;">
-        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
         src="./assets/img/jitendra.png">
     </td>
     <td style="border: none;"><a href="https://people.eecs.berkeley.edu/~malik">Jitendra Malik</a></td>
@@ -60,6 +52,14 @@ Please [submit your paper on CMT](https://cmt3.research.microsoft.com/WINVU2024)
     </td>
     <td style="border: none;"><a href="http://michaelryoo.com/">Michael Ryoo</a></td>
     <td style="border: none;">Google DeepMind, Stony Brook University</td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <img style="width: auto; height: auto;  max-height:128px;  max-width:128px; position: relative; overflow: hidden; border-radius: 50%;" 
+        src="./assets/img/makarand.jpg">
+    </td>
+    <td style="border: none;"><a href="https://makarandtapaswi.github.io/">Makarand Tapaswi</a></td>
+    <td style="border: none;">Wadhwani AI, IIIT Hyderabad </td>
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
