@@ -51,7 +51,7 @@ Please [submit your paper on CMT](https://cmt3.research.microsoft.com/WINVU2024)
         src="./assets/img/michael.jpg">
     </td>
     <td style="border: none;"><a href="http://michaelryoo.com/">Michael Ryoo</a></td>
-    <td style="border: none;">Google DeepMind, Stony Brook University</td>
+    <td style="border: none;">Salesforce AI, Stony Brook University</td>
 </tr>
 <tr style="border: none;">
     <td style="border: none;">
