@@ -20,7 +20,7 @@ We do not expect submissions to be based on accepted papers or even include expe
 
 Selected position papers will be "pitched" in a short oral talk during the workshop followed by an open discussion. 
 
-Submissions should be formatted as per the CVPR 2024 guidelines. Please use the template made available at [CVPR2024AuthorGuidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines).
+Submissions should be formatted as per the CVPR 2024 guidelines, but please submit in single blind format, i.e. there is no need to anonymise. Please use the template made available at [CVPR2024AuthorGuidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines).
 
 ### Submission Deadline
 
