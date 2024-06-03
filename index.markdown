@@ -138,7 +138,7 @@ You can share your views by filling [this form](https://forms.gle/b7j5rggsRFS5Ni
 </tr>
 </table>
 
-# Time and Location
+# Time and location
 
 18th June 2024, 8.30AM - 1PM, Summit 335-336, 900 Pine Street, Seattle.
 
