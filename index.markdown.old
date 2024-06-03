@@ -12,6 +12,28 @@ Video understanding has seen tremendous progress over the past decades, with mod
 
 The purpose of this workshop is to create a forum for discussion on what is next in video understanding, i.e. what are the paths forward and the fundamental problems that still need to be addressed in this research area. We will engage in a discussion with our community on the various facets of video understanding, including, but not limited to, tasks, model design, video length, multi-modality, generalisation properties, efficiency, ethics, fairness, and scale.
 
+# Call for Position Papers
+
+We invite submissions of 1-2 page position papers on the future of video understanding. Papers will **not** be part of the CVPR proceedings.
+
+We do not expect submissions to be based on accepted papers or even include experiments. Rather, they should be a way to call the community's attention to an overlooked, under-explored, or new direction for video understanding. e.g. "We should not forget optical flow" or "The future lies in language-video models, but how can small groups compete?". Papers can focus on both the short-term and long-term future of video understanding.
+
+Selected position papers will be "pitched" in a short oral talk during the workshop followed by an open discussion. 
+
+Submissions should be formatted as per the CVPR 2024 guidelines, but please submit in single blind format, i.e. there is no need to anonymise. Please use the template made available at [CVPR2024AuthorGuidelines](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines).
+
+### Submission Deadline
+
+11th April 2024, 23.59 Pacific Time.
+
+### Notification of Acceptance
+
+25th April 2024.
+
+### Submission Website
+
+Please [submit your paper on CMT](https://cmt3.research.microsoft.com/WINVU2024). 
+
 # Speakers
 
 <table style="border-collapse: collapse; border: none;">
@@ -57,42 +79,6 @@ The purpose of this workshop is to create a forum for discussion on what is next
 </tr>
 </table>
 
-# Programme
-
-| Time  | What |
-| :--   | :--  |
-| 08:30 | Welcome and opening remarks |
-| 08:45 | Angela Yao's talk |
-| 09:10 | Makarand Tapaswi's talk |
-| 09:35 | Pitches on the future of video understanding (8 presentations) |
-| 10:15 | Break |
-| 10:35 | Jitendra Malik's talk |
-| 11:00 | Michael Ryoo's talk |
-| 11:25 | Gül Varol's talk |
-| 11:50 | Panel discussion |
-| 12:35 | Conclusions and closing remarks |
-
-# Pitches on the future of video understanding
-
-This is the list of position papers that were accepted at our workshop. These will be presented by the authors during the workshop.
-
-| Name | Paper |
-| :--- | :---- |
-| Wufei Ma | Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data |
-| Xiaohan Wang | Building Agentic System for Video Understanding |
-| Sujay Kumar | Extreme Video Compression: Key To Large Scale Video Understanding |
-| Orr Zohar | Rethinking Video Instruction Dataset Generation: The Case for Bootstrapping with Large Vision-Language Models |
-| Sathyanarayanan Aakur | VOWL: Towards Video Understanding in an Open World |
-| Deeksha Arun | Enhancing Video Analysis: Selecting Informative Frames with Active Learning for a Reduced Video Gallery |
-| Sophia Abraham | Beyond Frame-by-Frame: Utilizing Homotopy Theory and Domain Knowledge in Foundation Models for Video Understanding |
-| Sujoy Roy Chowdhury | Installation Video validation from Instruction Manuals - The Next Frontier |
-
-# Share your views
-
-We are collecting opinions on the best and worst practices in the field, as well as insights on past and future trends in video understanding.
-
-You can share your views by filling [this form](https://forms.gle/b7j5rggsRFS5NiiPA).
-
 # Organisers
 
 <table style="border-collapse: collapse; border: none;">
@@ -137,10 +123,6 @@ You can share your views by filling [this form](https://forms.gle/b7j5rggsRFS5Ni
     <td style="border: none;">Facebook AI Research</td>
 </tr>
 </table>
-
-# Time and Location
-
-18th June 2024, 8.30AM - 1PM, Summit 335-336, 900 Pine Street, Seattle.
 
 # Contact
 
