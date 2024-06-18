@@ -6,6 +6,10 @@ title: WINVU @ CVPR 2024
 layout: default
 ---
 
+# Time and location
+
+18th June 2024, 8.30AM - 1PM, Summit 335-336, 900 Pine Street, Seattle.
+
 # Abstract
 
 Video understanding has seen tremendous progress over the past decades, with models attaining excellent results on classic benchmarks and widespread applications in industry. However, there are still many open challenges and the path forward is not clear. Image-text models have pushed progress on current video benchmarks, but we are still lacking in video foundation models. Recent works have shown several popular benchmarks can be solved using single video frames. New benchmark tasks are frequently being proposed, however their adoption is often limited and researchers default to saturated tasks such as classification and localisation. The ever-growing computational requirements are also particularly demanding for this field, which curbs the accessibility of video understanding. This raises the questions of how much deeper our understanding of video needs to be, whether the current benchmarks we have are enough, how to work in this field with limited resources, and what comes next beyond the task of action recognition.
@@ -137,10 +141,6 @@ You can share your views by filling [this form](https://forms.gle/b7j5rggsRFS5Ni
     <td style="border: none;">Facebook AI Research</td>
 </tr>
 </table>
-
-# Time and location
-
-18th June 2024, 8.30AM - 1PM, Summit 335-336, 900 Pine Street, Seattle.
 
 # Contact
 
